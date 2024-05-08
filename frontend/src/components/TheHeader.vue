@@ -19,7 +19,7 @@
           <router-link to="/lienhe" class="nav-link">Liên Hệ</router-link>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Giới Thiệu</a>
+          <router-link to="/gioithieu" class="nav-link">Giới Thiệu</router-link>
         </li>
         
         

@@ -2,7 +2,7 @@
     <div class=" bg-light">
       <div class="row">
         <div class="col-lg-4 mt-3 bg-white m-auto rounded">
-          <h2 class="text-center pt-3 mb-3">Chỉnh sửa sách</h2>
+          <h2 class="text-center pt-3 mb-3">Chỉnh sửa</h2>
           <form @submit.prevent="updateProduct(item) ">
             <div class="mb-3">
               <label class="form-label">Tên sản phẩm</label>

@@ -1,6 +1,6 @@
 <template>
      <!---contact-->
-     <div class="container">
+     
         <h1 class="text">Liên hệ với chúng tôi</h1>
         <p>Chúng tôi rất vui lòng trả lời các câu hỏi của bạn và giúp bạn có trải nghiệm tốt nhất.<br> Hãy liên lạc với chúng tôi.</p>
         <div class="contact-box">
@@ -57,18 +57,12 @@
             
             </div>
         </div>
-    </div>
+   
 
 </template>
 
-<style lang="scss" scoped>
+<style scoped>
 
-.container{
-    width: 80%;
-    margin: 10px auto;
-    /* margin-top: 100px; */
-   
-}
 .contact-box{
     background: #fff;
     display: flex;

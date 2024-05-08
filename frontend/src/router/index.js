@@ -72,6 +72,11 @@ const routes = [
         component: () => import("@/views/Lienhe.vue"),
 
     },
+    {
+        path: "/gioithieu",
+        component: () => import("@/views/Gioithieu.vue"),
+
+    },
    
    
 ];
